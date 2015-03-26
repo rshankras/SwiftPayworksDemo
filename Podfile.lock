@@ -1,0 +1,43 @@
+PODS:
+  - CocoaLumberjack (1.9.2):
+    - CocoaLumberjack/Extensions
+  - CocoaLumberjack/Core (1.9.2)
+  - CocoaLumberjack/Extensions (1.9.2):
+    - CocoaLumberjack/Core
+  - MPBSignatureViewController (1.4.8)
+  - payworks (2.3.0-BETA03):
+    - payworks/mpos
+  - payworks/mpos (2.3.0-BETA03):
+    - payworks/mpos/accessories
+    - payworks/mpos/comlinks
+    - payworks/mpos/core
+    - payworks/mpos/ui
+  - payworks/mpos/accessories (2.3.0-BETA03):
+    - payworks/mpos/accessories/miura
+    - payworks/mpos/accessories/verifone-e105
+  - payworks/mpos/accessories/miura (2.3.0-BETA03):
+    - payworks/mpos/comlinks/externalaccessory
+  - payworks/mpos/accessories/verifone-e105 (2.3.0-BETA03):
+    - payworks/mpos/comlinks/verifone
+  - payworks/mpos/comlinks (2.3.0-BETA03):
+    - payworks/mpos/comlinks/externalaccessory
+    - payworks/mpos/comlinks/verifone
+  - payworks/mpos/comlinks/externalaccessory (2.3.0-BETA03):
+    - payworks/mpos/core
+  - payworks/mpos/comlinks/verifone (2.3.0-BETA03):
+    - payworks/mpos/core
+  - payworks/mpos/core (2.3.0-BETA03):
+    - CocoaLumberjack (~> 1.9)
+  - payworks/mpos/ui (2.3.0-BETA03):
+    - MPBSignatureViewController (~> 1)
+    - payworks/mpos/core
+
+DEPENDENCIES:
+  - payworks
+
+SPEC CHECKSUMS:
+  CocoaLumberjack: 205769c032b5fef85b92472046bcc8b7e7c8a817
+  MPBSignatureViewController: c10ee62324e21a1a6859a12f0ff09a9e3c216dd1
+  payworks: 0e11ff3ac427e208bfa8ce6f2a73eae5e08f1257
+
+COCOAPODS: 0.34.4

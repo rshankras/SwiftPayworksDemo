@@ -1,0 +1,231 @@
+{
+    "info": {
+        "columns": 20, 
+        "locale": "fr_FR", 
+        "rows": 4
+    }, 
+    "localization": {
+        "ApplicationSelection": [
+            "", 
+            "Sélectionnez", 
+            "le compte", 
+            ""
+        ], 
+        "AuthorizingTransaction": [
+            "", 
+            "Authorizing", 
+            "payment...", 
+            ""
+        ], 
+        "BarcodeScannerActive": [
+            "", 
+            "Lecteur de", 
+            "code-barres actif", 
+            ""
+        ], 
+        "CardNotSupportedIccMagstripe": [
+            "", 
+            "", 
+            "Try another card", 
+            ""
+        ], 
+        "CardNotSupportedNfc": [
+            "", 
+            "Insert, swipe or", 
+            "try another card", 
+            ""
+        ], 
+        "CompletedWithStatus": [
+            "", 
+            "$reason1$", 
+            "$reason2$", 
+            ""
+        ], 
+        "CompletingTransaction": [
+            "", 
+            "Completing", 
+            "payment...", 
+            ""
+        ], 
+        "GenericError": [
+            "", 
+            "", 
+            "Erreur", 
+            ""
+        ], 
+        "Idle": [
+            "", 
+            "", 
+            "Connecté", 
+            ""
+        ], 
+        "InsertCard": [
+            "$amount$", 
+            "", 
+            "Introduire la carte", 
+            ""
+        ], 
+        "InsertOrSwipeCard": [
+            "$amount$", 
+            "", 
+            "Insert or", 
+            "swipe card"
+        ], 
+        "InsertOrSwipeCardActivateNfc": [
+            "$amount$", 
+            "Insert or", 
+            "swipe card", 
+            "[OK] for NFC"
+        ], 
+        "PINIncorrect": [
+            "", 
+            "Saisir le NIP", 
+            "$digits$", 
+            "(NIP erroné)"
+        ], 
+        "PINLastTry": [
+            "", 
+            "Saisir le NIP", 
+            "$digits$", 
+            "(dernier essai)"
+        ], 
+        "PINOk": [
+            "", 
+            "", 
+            "NIP OK", 
+            ""
+        ], 
+        "PINStatus": [
+            "", 
+            "Saisir le NIP", 
+            "$digits$", 
+            ""
+        ], 
+        "PresentCard": [
+            "$amount$", 
+            "", 
+            "Insérer ou faire ", 
+            "glisser la carte"
+        ], 
+        "ProcessingTransaction": [
+            "", 
+            "Traitement", 
+            "en cours...", 
+            ""
+        ], 
+        "ProvideIdentification": [
+            "", 
+            "Identification", 
+            "requise", 
+            ""
+        ], 
+        "ProvideSignature": [
+            "", 
+            "Signature", 
+            "requise", 
+            ""
+        ], 
+        "ProvideSignatureWithStatus": [
+            "$reason1$", 
+            "$reason2$", 
+            "Signature", 
+            "required"
+        ], 
+        "ProviderAccessoryCheckingForUpdate": [
+            ""
+        ], 
+        "ProviderAccessoryConnecting": [
+            ""
+        ], 
+        "ProviderAccessoryUpdating": [
+            ""
+        ], 
+        "ProviderAborted": [
+            ""
+        ], 
+        "ProviderApproved": [
+            ""
+        ], 
+        "ProviderDeclined": [
+            ""
+        ], 
+        "ProviderFailed": [
+            ""
+        ], 
+        "ProviderTransactionQuerying": [
+            ""
+        ], 
+        "ProviderTransactionRegistering": [
+            ""
+        ], 
+        "ProviderAccessoryConfiguringConnectionLink": [
+            ""
+        ], 
+        "ReadingEMVCard": [
+            "", 
+            "Carte en cours", 
+            "de lecture...", 
+            ""
+        ], 
+        "RemoveCardWithStatus": [
+            "$reason1$", 
+            "$reason2$", 
+            "", 
+            "Retirer la carte"
+        ], 
+        "SwipeCard": [
+            "$amount$", 
+            "", 
+            "Passer la carte", 
+            ""
+        ], 
+        "TransactionAborting": [
+            "", 
+            "Paiement", 
+            "interrompu...", 
+            ""
+        ], 
+        "UpdatingDevice": [
+            "", 
+            "L'appareil est", 
+            "en cours", 
+            "d'actualisation..."
+        ], 
+        "UpdatingDeviceConfigurationUpdate": [
+            "Mise à jour config.", 
+            "", 
+            "Cela peut prendre", 
+            "quelques instants..."
+        ], 
+        "UpdatingDeviceFirmwareUpdate": [
+            "Mise à jour firmware", 
+            "", 
+            "Cela peut prendre", 
+            "quelques instants..."
+        ], 
+        "UpdatingDeviceKeyInjection": [
+            "Génération de la clé", 
+            "", 
+            "Cela peut prendre", 
+            "quelques instants..."
+        ], 
+        "UpdatingDeviceSoftwareUpdate": [
+            "Mise à jour", 
+            "du logiciel", 
+            "Cela peut prendre", 
+            "quelques instants..."
+        ], 
+        "CardNotSupported": [
+            "Carte non acceptée!", 
+            "Introduire une autre", 
+            "carte ou interrompre", 
+            "l'opération"
+        ], 
+        "SelectApp": [
+            "Select:", 
+            "", 
+            "", 
+            "more"
+        ]
+    }
+}

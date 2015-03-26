@@ -1,0 +1,173 @@
+{
+    "info": {
+        "columns": 40, 
+        "locale": "it_IT", 
+        "rows": 2
+    }, 
+    "localization": {
+        "ApplicationSelection": [
+            "Scegliere la carta", 
+            ""
+        ], 
+        "AuthorizingTransaction": [
+            "Authorizing payment...", 
+            ""
+        ], 
+        "BarcodeScannerActive": [
+            "Scanner codice a barre", 
+            "attivo"
+        ], 
+        "CardNotSupportedIccMagstripe": [
+            "Try another card", 
+            ""
+        ], 
+        "CardNotSupportedNfc": [
+            "Insert, swipe or", 
+            "try another card"
+        ], 
+        "CompletedWithStatus": [
+            "$reason1$", 
+            ""
+        ], 
+        "CompletingTransaction": [
+            "Completing payment...", 
+            ""
+        ], 
+        "GenericError": [
+            "Errore", 
+            ""
+        ], 
+        "Idle": [
+            "Collegamento", 
+            ""
+        ], 
+        "InsertCard": [
+            "$amount$", 
+            "Inserire la carta"
+        ], 
+        "InsertOrSwipeCard": [
+            "$amount$", 
+            "Insert or swipe card"
+        ], 
+        "InsertOrSwipeCardActivateNfc": [
+            "$amount$ Insert or swipe card", 
+            "[OK] for NFC"
+        ], 
+        "PINIncorrect": [
+            "PIN inserito (PIN errato)", 
+            "$digits$"
+        ], 
+        "PINLastTry": [
+            "Inserire il PIN (ultimo tentativo)", 
+            "$digits$"
+        ], 
+        "PINOk": [
+            "PIN OK", 
+            ""
+        ], 
+        "PINStatus": [
+            "Inserire il PIN", 
+            "$digits$"
+        ], 
+        "PresentCard": [
+            "$amount$", 
+            "Present card"
+        ], 
+        "ProcessingTransaction": [
+            "Elaborazione pagamento...", 
+            ""
+        ], 
+        "ProvideIdentification": [
+            "Necessaria identificazione", 
+            ""
+        ], 
+        "ProvideSignature": [
+            "Necessaria firma", 
+            ""
+        ], 
+        "ProvideSignatureWithStatus": [
+            "$reason1$", 
+            "Signature required"
+        ], 
+        "ProviderAccessoryCheckingForUpdate": [
+            "Connecting to", 
+            "card reader"
+        ], 
+        "ProviderAccessoryConnecting": [
+            "Collegamento con il", 
+            "lettore carte"
+        ], 
+        "ProviderAccessoryUpdating": [
+            "Applying", 
+            "updates"
+        ], 
+        "ProviderAborted": [
+            "Pagamento annullato", 
+            ""
+        ], 
+        "ProviderApproved": [
+            "Pagamento accettato", 
+            ""
+        ], 
+        "ProviderDeclined": [
+            "Pagamento rifiutato", 
+            "$reason1$"
+        ], 
+        "ProviderFailed": [
+            "Pagamento non riuscito", 
+            "$error$"
+        ], 
+        "ProviderTransactionQuerying": [
+            "Verifica del", 
+            "pagamento"
+        ], 
+        "ProviderTransactionRegistering": [
+            "Registering", 
+            "transaction"
+        ], 
+        "ProviderAccessoryConfiguringConnectionLink": [
+            "Configurazione", 
+            "del lettore..."
+        ], 
+        "ReadingEMVCard": [
+            "Lettura della carta...", 
+            ""
+        ], 
+        "RemoveCardWithStatus": [
+            "$reason1$", 
+            "Prendere la carta"
+        ], 
+        "SwipeCard": [
+            "$amount$", 
+            "Strisciare la carta"
+        ], 
+        "TransactionAborting": [
+            "Il pagamento viene interrotto...", 
+            ""
+        ], 
+        "UpdatingDevice": [
+            "Aggiornamento", 
+            ""
+        ], 
+        "UpdatingDeviceConfigurationUpdate": [
+            "Update config", 
+            "Può richiedere alcuni istanti..."
+        ], 
+        "UpdatingDeviceFirmwareUpdate": [
+            "Aggiornamento firmware...", 
+            "Pazientare qualche istante..."
+        ], 
+        "UpdatingDeviceSoftwareUpdate": [
+            "Aggiornamento software", 
+            "Pazientare qualche istante..."
+        ], 
+        "UpdatingDeviceKeyInjection": [
+            "Generazione di chiavi", 
+            "Pazientare qualche istante..."
+        ], 
+        "CardNotSupported": [
+            "Carta non supportata!", 
+            "Altra carta o annullamento"
+        ]
+    }
+}

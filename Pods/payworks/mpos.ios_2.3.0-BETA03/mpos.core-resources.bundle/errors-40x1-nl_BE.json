@@ -1,0 +1,99 @@
+{
+    "info": {
+        "locale": "nl_BE", 
+        "rows": 1, 
+        "columns": 40
+    }, 
+    "localization": {
+        "ParameterMissing": [
+            "Parameter ontbreekt"
+        ], 
+        "ParameterInvalid": [
+            "Ongeldige parameter"
+        ], 
+        "AccessoryNotFound": [
+            "Randapparatuur niet gevonden"
+        ], 
+        "AccessoryNotConnected": [
+            "Randapparaat niet verbonden"
+        ], 
+        "AccessoryAlreadyConnected": [
+            "Randapparatuur al verbonden"
+        ], 
+        "AccessoryAlreadyDisconnected": [
+            "Randapparaat al afgekoppeld"
+        ], 
+        "AccessoryBusy": [
+            "Randapparaat is bezig"
+        ], 
+        "AccessoryNotWhitelisted": [
+            "Randapparaat staat niet op witte lijst"
+        ], 
+        "AccessoryDeactivated": [
+            "Randapparaat is gedeactiveerd"
+        ], 
+        "AccessoryRequiresUpdate": [
+            "Update randapparatuur vereist"
+        ], 
+        "AccessoryBatteryLow": [
+            "Batterij bijna leeg"
+        ], 
+        "AccessoryTampered": [
+            "Randapparatuur onrechtmatig gewijzigd"
+        ], 
+        "AccessoryError": [
+            "Fout randapparaat"
+        ], 
+        "TransactionSessionNotFound": [
+            "Transactiesessie niet gevonden"
+        ], 
+        "TransactionReferenceNotFound": [
+            "Transactiereferentie niet gevonden"
+        ], 
+        "TransactionInvalid": [
+            "Transactie ongeldig"
+        ], 
+        "TransactionBusy": [
+            "Transactie is bezig"
+        ], 
+        "TransactionNoLongerAbortable": [
+            "Transactie kan niet meer gestopt worden"
+        ], 
+        "TransactionDeclined": [
+            "Transactie geweigerd"
+        ], 
+        "TransactionAborted": [
+            "Transactie afgebroken"
+        ], 
+        "TransactionError": [
+            "Transactiefout"
+        ], 
+        "TransactionActionError": [
+            "Fout transactie-actie"
+        ], 
+        "ServerUnavailable": [
+            "Controleer uw internetverbinding"
+        ], 
+        "ServerAuthenticationFailed": [
+            "Gateway authenticatie mislukt"
+        ], 
+        "ServerPinningWithRemoteFailed": [
+            "Gateway verificatie mislukt"
+        ], 
+        "ServerError": [
+            "Serverfout"
+        ], 
+        "SDKResourcesNotFound": [
+            "Resources niet gevonden"
+        ], 
+        "SDKResourcesModified": [
+            "Resources modified"
+        ], 
+        "SDKConfigurationMissing": [
+            "Configuratie ontbreekt"
+        ], 
+        "InternalInconsistency": [
+            "Interne fout"
+        ]
+    }
+}

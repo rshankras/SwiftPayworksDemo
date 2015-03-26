@@ -1,0 +1,114 @@
+{
+    "info": {
+        "columns": 40, 
+        "locale": "en_US", 
+        "rows": 1
+    }, 
+    "localization": {
+        "ABORTED": [
+            "Payment aborted"
+        ], 
+        "ABORTED_MERCHANT_ABORTED": [
+            "Payment aborted"
+        ], 
+        "ABORTED_SHOPPER_ABORTED": [
+            "Payment aborted"
+        ], 
+        "ABORTED_SHOPPER_REMOVED_CARD": [
+            "Payment aborted"
+        ], 
+        "ABORTED_PRESENT_CARD_TIMED_OUT": [
+            "Payment aborted"
+        ], 
+        "APPROVED": [
+            "Payment approved"
+        ], 
+        "DECLINED": [
+            "Declined"
+        ], 
+        "DECLINED_CARD_EXPIRED": [
+            "Declined - Card expired"
+        ], 
+        "DECLINED_CARD_INVALID_PAN": [
+            "Declined - Invalid card"
+        ], 
+        "DECLINED_CARD_INVALID_SCHEME": [
+            "Declined - Card not allowed"
+        ], 
+        "DECLINED_CARD_OR_TERMINAL_DECLINED": [
+            "Declined"
+        ], 
+        "DECLINED_CARD_STOLEN": [
+            "Declined - Stolen card, pick up"
+        ], 
+        "DECLINED_CARD_USE_ORIGINAL": [
+            "Declined - Use original card"
+        ], 
+        "DECLINED_INVALID_TERMINAL": [
+            "Payment not possible"
+        ], 
+        "DECLINED_INVALID_TERMINAL_CONFIG": [
+            "Payment not possible"
+        ], 
+        "DECLINED_INVALID_TERMINAL_SOFTWARE": [
+            "Payment not possible"
+        ], 
+        "DECLINED_PIN_WRONG": [
+            "Declined - Wrong PIN"
+        ], 
+        "DECLINED_PIN_WRONG_TOO_OFTEN": [
+            "Declined - Wrong PIN entered too often"
+        ], 
+        "DECLINED_PROCESSOR": [
+            "Declined"
+        ], 
+        "DECLINED_PROCESSOR_EXCEEDS_WITHDRAWAL_COUNT_LIMIT": [
+            "Declined"
+        ], 
+        "DECLINED_SESSION_EXPIRED": [
+            "Payment not possible"
+        ], 
+        "ERROR": [
+            "Processing error"
+        ], 
+        "ERROR_APPROVED_OFFLINE": [
+            "Processing error (Terminal Approval)"
+        ], 
+        "ERROR_PROCESSOR_INVALID_FORMAT": [
+            "Processing error (Invalid Format)"
+        ], 
+        "ERROR_PROCESSOR_INVALID_NONCE": [
+            "Processing error (Invalid Nonce)"
+        ], 
+        "ERROR_PROCESSOR_INVALID_SESSION": [
+            "Processing error (Invalid Session)"
+        ], 
+        "ERROR_PROCESSOR_INVALID_STATUS": [
+            "Processing error (Invalid Status)"
+        ], 
+        "ERROR_PROCESSOR_MISSING_SESSION": [
+            "Processing error (Missing Session)"
+        ], 
+        "ERROR_SESSION_TIMEOUT": [
+            "Processing error (Session Timeout)"
+        ], 
+        "ERROR_TERMINAL_ERROR": [
+            "Processing error (Terminal Error)"
+        ], 
+        "ERROR_SERVER_INVALID_RESPONSE": [
+            "Processing error (Invalid Response)"
+        ], 
+        "ERROR_TERMINAL_TIMEOUT": [
+            "Processing error (Terminal Timeout)"
+        ], 
+        "NONE": [
+            ""
+        ], 
+        "PENDING": [
+            "Please wait..."
+        ], 
+        "PENDING_WAITING_FOR_FINALIZATION": [
+            "Payment approved"
+        ]
+    }
+}

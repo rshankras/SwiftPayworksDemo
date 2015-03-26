@@ -1,0 +1,231 @@
+{
+    "info": {
+        "columns": 20, 
+        "locale": "it_IT", 
+        "rows": 4
+    }, 
+    "localization": {
+        "ApplicationSelection": [
+            "", 
+            "Selezionare", 
+            "il conto", 
+            ""
+        ], 
+        "AuthorizingTransaction": [
+            "", 
+            "Authorizing", 
+            "payment...", 
+            ""
+        ], 
+        "BarcodeScannerActive": [
+            "", 
+            "Scanner codice a ", 
+            "barre attivo", 
+            ""
+        ], 
+        "CardNotSupportedIccMagstripe": [
+            "", 
+            "", 
+            "Try another card", 
+            ""
+        ], 
+        "CardNotSupportedNfc": [
+            "", 
+            "Insert, swipe or", 
+            "try another card", 
+            ""
+        ], 
+        "CompletedWithStatus": [
+            "", 
+            "$reason1$", 
+            "$reason2$", 
+            ""
+        ], 
+        "CompletingTransaction": [
+            "", 
+            "Completing", 
+            "payment...", 
+            ""
+        ], 
+        "GenericError": [
+            "", 
+            "", 
+            "Errore", 
+            ""
+        ], 
+        "Idle": [
+            "", 
+            "", 
+            "Connesso", 
+            ""
+        ], 
+        "InsertCard": [
+            "$amount$", 
+            " ", 
+            "Inserire la carta", 
+            ""
+        ], 
+        "InsertOrSwipeCard": [
+            "$amount$", 
+            "", 
+            "Insert or", 
+            "swipe card"
+        ], 
+        "InsertOrSwipeCardActivateNfc": [
+            "$amount$", 
+            "Insert or", 
+            "swipe card", 
+            "[OK] for NFC"
+        ], 
+        "PINIncorrect": [
+            "", 
+            "Inserire il PIN", 
+            "$digits$", 
+            "(PIN errato)"
+        ], 
+        "PINLastTry": [
+            "", 
+            "Inserire il PIN", 
+            "$digits$", 
+            "(ultimo tentativo)"
+        ], 
+        "PINOk": [
+            "", 
+            "", 
+            "PIN OK", 
+            ""
+        ], 
+        "PINStatus": [
+            "", 
+            "Inserire il PIN", 
+            "$digits$", 
+            ""
+        ], 
+        "PresentCard": [
+            "$amount$", 
+            "", 
+            "Inserire o", 
+            "strisciare la carta"
+        ], 
+        "ProcessingTransaction": [
+            "", 
+            "Elaborazione", 
+            "pagamento...", 
+            ""
+        ], 
+        "ProvideIdentification": [
+            "", 
+            "Identificazione", 
+            "necessaria", 
+            ""
+        ], 
+        "ProvideSignature": [
+            "", 
+            "Necessaria", 
+            "firma", 
+            ""
+        ], 
+        "ProvideSignatureWithStatus": [
+            "$reason1$", 
+            "$reason2$", 
+            "Signature", 
+            "required"
+        ], 
+        "ProviderAccessoryCheckingForUpdate": [
+            ""
+        ], 
+        "ProviderAccessoryConnecting": [
+            ""
+        ], 
+        "ProviderAccessoryUpdating": [
+            ""
+        ], 
+        "ProviderAborted": [
+            ""
+        ], 
+        "ProviderApproved": [
+            ""
+        ], 
+        "ProviderDeclined": [
+            ""
+        ], 
+        "ProviderFailed": [
+            ""
+        ], 
+        "ProviderTransactionQuerying": [
+            ""
+        ], 
+        "ProviderTransactionRegistering": [
+            ""
+        ], 
+        "ProviderAccessoryConfiguringConnectionLink": [
+            ""
+        ], 
+        "ReadingEMVCard": [
+            "", 
+            "Lettura", 
+            "della carta...", 
+            ""
+        ], 
+        "RemoveCardWithStatus": [
+            "$reason1$", 
+            "$reason2$", 
+            "", 
+            "Prendere la carta"
+        ], 
+        "SwipeCard": [
+            "$amount$ ", 
+            " ", 
+            "Strisciare la carta", 
+            ""
+        ], 
+        "TransactionAborting": [
+            "", 
+            "Il pagamento", 
+            "viene interrotto...", 
+            ""
+        ], 
+        "UpdatingDevice": [
+            "", 
+            "Il dispositivo viene", 
+            "aggiornato...", 
+            ""
+        ], 
+        "UpdatingDeviceConfigurationUpdate": [
+            "Update config", 
+            "", 
+            "Può richiedere", 
+            "alcuni istanti..."
+        ], 
+        "UpdatingDeviceFirmwareUpdate": [
+            "Firmware-Update", 
+            "", 
+            "Può richiedere", 
+            "più tempo..."
+        ], 
+        "UpdatingDeviceKeyInjection": [
+            "Generazione chiave", 
+            "", 
+            "Può richiedere", 
+            "alcuni istanti..."
+        ], 
+        "UpdatingDeviceSoftwareUpdate": [
+            "Aggiornamento", 
+            "software", 
+            "", 
+            "Attendere prego..."
+        ], 
+        "CardNotSupported": [
+            "Carta non", 
+            "supportata! Inserire", 
+            "un’altra carta o", 
+            "interrompere"
+        ], 
+        "SelectApp": [
+            "Select:", 
+            "", 
+            "", 
+            "more"
+        ]
+    }
+}

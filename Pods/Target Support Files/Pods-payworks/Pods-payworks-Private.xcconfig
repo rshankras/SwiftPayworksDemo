@@ -1,0 +1,6 @@
+#include "Pods-payworks.xcconfig"
+FRAMEWORK_SEARCH_PATHS = ${PODS_PAYWORKS_FRAMEWORK_SEARCH_PATHS}
+GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
+HEADER_SEARCH_PATHS = "${PODS_ROOT}/Headers/Build" "${PODS_ROOT}/Headers/Build/payworks" "${PODS_ROOT}/Headers/Public" "${PODS_ROOT}/Headers/Public/CocoaLumberjack" "${PODS_ROOT}/Headers/Public/MPBSignatureViewController" "${PODS_ROOT}/Headers/Public/payworks"
+OTHER_LDFLAGS = ${PODS_PAYWORKS_OTHER_LDFLAGS} -ObjC
+PODS_ROOT = ${SRCROOT}

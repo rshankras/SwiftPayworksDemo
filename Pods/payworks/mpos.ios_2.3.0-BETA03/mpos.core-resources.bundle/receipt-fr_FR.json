@@ -1,0 +1,60 @@
+{
+    "info": {
+        "locale": "fr_FR"
+    }, 
+    "labels": {
+        "Date": "Date", 
+        "Time": "Heure", 
+        "Status": "Statut", 
+        "AmountAndCurrency": "Montant", 
+        "StatusText": "Informations", 
+        "Subject": "Description", 
+        "TransactionType": "Type", 
+        "ReceiptType": "Justificatif", 
+        "Identifier": "PWID", 
+        "PaymentDetailsSource": "Mode de saisie", 
+        "PaymentDetailsEMVApplicationID": "AID", 
+        "PaymentDetailsSchemeOrLabel": "Carte", 
+        "PaymentDetailsMaskedAccount": "Compte", 
+        "PaymentDetailsCustomerVerification": "Verification", 
+        "PaymentDetailsAccountSequenceNumber": "Card Number", 
+        "ClearingDetailsTransactionIdentifier": "Transaction", 
+        "ClearingDetailsOriginalTransactionIdentifier": "Trx originale", 
+        "ClearingDetailsAuthorizationCode": "Autorisation", 
+        "ClearingDetailsMerchantId": "N° de contrat", 
+        "ClearingDetailsTerminalId": "ID terminal"
+    }, 
+    "values": {
+        "ReceiptType": {
+            "MERCHANT": "Justificatif commerçant", 
+            "CUSTOMER": "Justificatif titulaire"
+        }, 
+        "StatusText": {
+            "APPROVED": "Justificatif à conserver!", 
+            "DECLINED": "Autorisation refusée", 
+            "ABORTED": "Transaction interrompue", 
+            "ERROR": "Transaction non valide"
+        }, 
+        "PaymentDetailsSource": {
+            "ICC": "Puce", 
+            "MAGSTRIPE": "Bande magnétique", 
+            "CONTACTLESS": "Sans contact", 
+            "MAGSTRIPE_AS_FALLBACK": "Bande magnétique", 
+            "MANUAL": "Manuel", 
+            "MANUAL_AS_FALLBACK": "Manuel", 
+            "NFC_ICC": "Sans contact", 
+            "NFC_MAGSTRIPE": "Sans contact"
+        }, 
+        "TransactionType": {
+            "CHARGE": "Paiement", 
+            "REFUND": "Annulation"
+        }, 
+        "PaymentDetailsCustomerVerification": {
+            "NONE": "None", 
+            "PIN": "PIN", 
+            "SIGNATURE": "Signature", 
+            "PIN_AND_SIGNATURE": "PIN and Signature", 
+            "SHOPPER_DEVICE": "Customer Device"
+        }
+    }
+}

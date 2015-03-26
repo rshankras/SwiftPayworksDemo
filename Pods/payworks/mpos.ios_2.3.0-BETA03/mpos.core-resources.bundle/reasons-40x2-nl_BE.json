@@ -1,0 +1,114 @@
+{
+    "info": {
+        "columns": 40, 
+        "locale": "nl_BE", 
+        "rows": 1
+    }, 
+    "localization": {
+        "ABORTED": [
+            "Payment aborted"
+        ], 
+        "ABORTED_MERCHANT_ABORTED": [
+            "Betaling afgebroken"
+        ], 
+        "ABORTED_SHOPPER_ABORTED": [
+            "Betaling afgebroken"
+        ], 
+        "ABORTED_SHOPPER_REMOVED_CARD": [
+            "Betaling afgebroken"
+        ], 
+        "ABORTED_PRESENT_CARD_TIMED_OUT": [
+            "Payment aborted"
+        ], 
+        "APPROVED": [
+            "Betaling geslaagd"
+        ], 
+        "DECLINED": [
+            "Declined"
+        ], 
+        "DECLINED_CARD_EXPIRED": [
+            "Kaart vervallen"
+        ], 
+        "DECLINED_CARD_INVALID_PAN": [
+            "Ongeldige kaart"
+        ], 
+        "DECLINED_CARD_INVALID_SCHEME": [
+            "Kaart niet toegestaan"
+        ], 
+        "DECLINED_CARD_OR_TERMINAL_DECLINED": [
+            "Geweigerd"
+        ], 
+        "DECLINED_CARD_STOLEN": [
+            "gestolen kaart, kaart inhouden"
+        ], 
+        "DECLINED_CARD_USE_ORIGINAL": [
+            "originele kaart gebruiken"
+        ], 
+        "DECLINED_INVALID_TERMINAL": [
+            "Betaling onmogelijk"
+        ], 
+        "DECLINED_INVALID_TERMINAL_CONFIG": [
+            "Betaling onmogelijk"
+        ], 
+        "DECLINED_INVALID_TERMINAL_SOFTWARE": [
+            "Betaling onmogelijk"
+        ], 
+        "DECLINED_PIN_WRONG": [
+            "Verkeerde PIN"
+        ], 
+        "DECLINED_PIN_WRONG_TOO_OFTEN": [
+            "Te vaak verkeerde PIN ingevoerd"
+        ], 
+        "DECLINED_PROCESSOR": [
+            "Betaling geweigerd"
+        ], 
+        "DECLINED_PROCESSOR_EXCEEDS_WITHDRAWAL_COUNT_LIMIT": [
+            "Betaling geweigerd"
+        ], 
+        "DECLINED_SESSION_EXPIRED": [
+            "Betaling onmogelijk"
+        ], 
+        "ERROR": [
+            "Processing error"
+        ], 
+        "ERROR_APPROVED_OFFLINE": [
+            "Processing error (Terminal Approval)"
+        ], 
+        "ERROR_PROCESSOR_INVALID_FORMAT": [
+            "Verwerkingsfout (ongeldig formaat)"
+        ], 
+        "ERROR_PROCESSOR_INVALID_NONCE": [
+            "Verwerkingsfout (ongeldige nonce)"
+        ], 
+        "ERROR_PROCESSOR_INVALID_SESSION": [
+            "Verwerkingsfout (ongeldige sessie)"
+        ], 
+        "ERROR_PROCESSOR_INVALID_STATUS": [
+            "Verwerkingsfout (ongeldige status)"
+        ], 
+        "ERROR_PROCESSOR_MISSING_SESSION": [
+            "Verwerkingsfout (ontbrekende sessie)"
+        ], 
+        "ERROR_SESSION_TIMEOUT": [
+            "Verwerkingsfout (time-out sessie)"
+        ], 
+        "ERROR_TERMINAL_ERROR": [
+            "Verwerkingsfout (terminalfout)"
+        ], 
+        "ERROR_SERVER_INVALID_RESPONSE": [
+            "Verwerkingsfout (ongeldig antwoord)"
+        ], 
+        "ERROR_TERMINAL_TIMEOUT": [
+            "Verwerkingsfout (time-out terminal)"
+        ], 
+        "NONE": [
+            ""
+        ], 
+        "PENDING": [
+            "Please wait..."
+        ], 
+        "PENDING_WAITING_FOR_FINALIZATION": [
+            "Betaling geslaagd"
+        ]
+    }
+}

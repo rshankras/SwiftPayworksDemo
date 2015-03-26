@@ -1,0 +1,99 @@
+{
+    "info": {
+        "locale": "de_DE", 
+        "rows": 1, 
+        "columns": 40
+    }, 
+    "localization": {
+        "ParameterMissing": [
+            "Parameter fehlt"
+        ], 
+        "ParameterInvalid": [
+            "Parameter ungültig"
+        ], 
+        "AccessoryNotFound": [
+            "Leser nicht gefunden"
+        ], 
+        "AccessoryNotConnected": [
+            "Keine Verbindung zum Leser"
+        ], 
+        "AccessoryAlreadyConnected": [
+            "Leser bereits verbunden"
+        ], 
+        "AccessoryAlreadyDisconnected": [
+            "Verbindung zum Leser bereits getrennt"
+        ], 
+        "AccessoryBusy": [
+            "Leser ist blockiert"
+        ], 
+        "AccessoryNotWhitelisted": [
+            "Kein Whitelisting des Lesers"
+        ], 
+        "AccessoryDeactivated": [
+            "Leser deaktiviert"
+        ], 
+        "AccessoryRequiresUpdate": [
+            "Leser-Update erforderlich"
+        ], 
+        "AccessoryBatteryLow": [
+            "Niedrige Batterieladung"
+        ], 
+        "AccessoryTampered": [
+            "Leser manipuliert"
+        ], 
+        "AccessoryError": [
+            "Leserfehler"
+        ], 
+        "TransactionSessionNotFound": [
+            "Transaktions-Session nicht gefunden"
+        ], 
+        "TransactionReferenceNotFound": [
+            "Transaktionsreferenz nicht gefunden"
+        ], 
+        "TransactionInvalid": [
+            "Transaktion ungültig"
+        ], 
+        "TransactionBusy": [
+            "Transaktion blockiert"
+        ], 
+        "TransactionNoLongerAbortable": [
+            "Transaktion nicht mehr abbrechbar"
+        ], 
+        "TransactionDeclined": [
+            "Transaktion abgelehnt"
+        ], 
+        "TransactionAborted": [
+            "Transaktion abgebrochen"
+        ], 
+        "TransactionError": [
+            "Transaktionsfehler"
+        ], 
+        "TransactionActionError": [
+            "Transaktion, Bedienungsfehler"
+        ], 
+        "ServerUnavailable": [
+            "Internetverbindung prüfen"
+        ], 
+        "ServerAuthenticationFailed": [
+            "Gateway-Authentifizierung fehlgeschlagen"
+        ], 
+        "ServerPinningWithRemoteFailed": [
+            "Gateway-Prüfung fehlgeschlagen"
+        ], 
+        "ServerError": [
+            "Serverfehler"
+        ], 
+        "SDKResourcesNotFound": [
+            "Ressourcen nicht gefunden"
+        ], 
+        "SDKResourcesModified": [
+            "Ressourcen modifiziert"
+        ], 
+        "SDKConfigurationMissing": [
+            "Konfiguration fehlt"
+        ], 
+        "InternalInconsistency": [
+            "Interner Fehler"
+        ]
+    }
+}

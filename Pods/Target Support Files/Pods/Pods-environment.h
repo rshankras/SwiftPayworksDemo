@@ -1,0 +1,92 @@
+
+// To check if a library is compiled with CocoaPods you
+// can use the `COCOAPODS` macro definition which is
+// defined in the xcconfigs so it is available in
+// headers also when they are imported in the client
+// project.
+
+
+// CocoaLumberjack
+#define COCOAPODS_POD_AVAILABLE_CocoaLumberjack
+#define COCOAPODS_VERSION_MAJOR_CocoaLumberjack 1
+#define COCOAPODS_VERSION_MINOR_CocoaLumberjack 9
+#define COCOAPODS_VERSION_PATCH_CocoaLumberjack 2
+
+// CocoaLumberjack/Core
+#define COCOAPODS_POD_AVAILABLE_CocoaLumberjack_Core
+#define COCOAPODS_VERSION_MAJOR_CocoaLumberjack_Core 1
+#define COCOAPODS_VERSION_MINOR_CocoaLumberjack_Core 9
+#define COCOAPODS_VERSION_PATCH_CocoaLumberjack_Core 2
+
+// CocoaLumberjack/Extensions
+#define COCOAPODS_POD_AVAILABLE_CocoaLumberjack_Extensions
+#define COCOAPODS_VERSION_MAJOR_CocoaLumberjack_Extensions 1
+#define COCOAPODS_VERSION_MINOR_CocoaLumberjack_Extensions 9
+#define COCOAPODS_VERSION_PATCH_CocoaLumberjack_Extensions 2
+
+// MPBSignatureViewController
+#define COCOAPODS_POD_AVAILABLE_MPBSignatureViewController
+#define COCOAPODS_VERSION_MAJOR_MPBSignatureViewController 1
+#define COCOAPODS_VERSION_MINOR_MPBSignatureViewController 4
+#define COCOAPODS_VERSION_PATCH_MPBSignatureViewController 8
+
+// payworks
+#define COCOAPODS_POD_AVAILABLE_payworks
+#define COCOAPODS_VERSION_MAJOR_payworks 2
+#define COCOAPODS_VERSION_MINOR_payworks 3
+#define COCOAPODS_VERSION_PATCH_payworks 0
+
+// payworks/mpos
+#define COCOAPODS_POD_AVAILABLE_payworks_mpos
+#define COCOAPODS_VERSION_MAJOR_payworks_mpos 2
+#define COCOAPODS_VERSION_MINOR_payworks_mpos 3
+#define COCOAPODS_VERSION_PATCH_payworks_mpos 0
+
+// payworks/mpos/accessories
+#define COCOAPODS_POD_AVAILABLE_payworks_mpos_accessories
+#define COCOAPODS_VERSION_MAJOR_payworks_mpos_accessories 2
+#define COCOAPODS_VERSION_MINOR_payworks_mpos_accessories 3
+#define COCOAPODS_VERSION_PATCH_payworks_mpos_accessories 0
+
+// payworks/mpos/accessories/miura
+#define COCOAPODS_POD_AVAILABLE_payworks_mpos_accessories_miura
+#define COCOAPODS_VERSION_MAJOR_payworks_mpos_accessories_miura 2
+#define COCOAPODS_VERSION_MINOR_payworks_mpos_accessories_miura 3
+#define COCOAPODS_VERSION_PATCH_payworks_mpos_accessories_miura 0
+
+// payworks/mpos/accessories/verifone-e105
+#define COCOAPODS_POD_AVAILABLE_payworks_mpos_accessories_verifone_e105
+#define COCOAPODS_VERSION_MAJOR_payworks_mpos_accessories_verifone_e105 2
+#define COCOAPODS_VERSION_MINOR_payworks_mpos_accessories_verifone_e105 3
+#define COCOAPODS_VERSION_PATCH_payworks_mpos_accessories_verifone_e105 0
+
+// payworks/mpos/comlinks
+#define COCOAPODS_POD_AVAILABLE_payworks_mpos_comlinks
+#define COCOAPODS_VERSION_MAJOR_payworks_mpos_comlinks 2
+#define COCOAPODS_VERSION_MINOR_payworks_mpos_comlinks 3
+#define COCOAPODS_VERSION_PATCH_payworks_mpos_comlinks 0
+
+// payworks/mpos/comlinks/externalaccessory
+#define COCOAPODS_POD_AVAILABLE_payworks_mpos_comlinks_externalaccessory
+#define COCOAPODS_VERSION_MAJOR_payworks_mpos_comlinks_externalaccessory 2
+#define COCOAPODS_VERSION_MINOR_payworks_mpos_comlinks_externalaccessory 3
+#define COCOAPODS_VERSION_PATCH_payworks_mpos_comlinks_externalaccessory 0
+
+// payworks/mpos/comlinks/verifone
+#define COCOAPODS_POD_AVAILABLE_payworks_mpos_comlinks_verifone
+#define COCOAPODS_VERSION_MAJOR_payworks_mpos_comlinks_verifone 2
+#define COCOAPODS_VERSION_MINOR_payworks_mpos_comlinks_verifone 3
+#define COCOAPODS_VERSION_PATCH_payworks_mpos_comlinks_verifone 0
+
+// payworks/mpos/core
+#define COCOAPODS_POD_AVAILABLE_payworks_mpos_core
+#define COCOAPODS_VERSION_MAJOR_payworks_mpos_core 2
+#define COCOAPODS_VERSION_MINOR_payworks_mpos_core 3
+#define COCOAPODS_VERSION_PATCH_payworks_mpos_core 0
+
+// payworks/mpos/ui
+#define COCOAPODS_POD_AVAILABLE_payworks_mpos_ui
+#define COCOAPODS_VERSION_MAJOR_payworks_mpos_ui 2
+#define COCOAPODS_VERSION_MINOR_payworks_mpos_ui 3
+#define COCOAPODS_VERSION_PATCH_payworks_mpos_ui 0
+

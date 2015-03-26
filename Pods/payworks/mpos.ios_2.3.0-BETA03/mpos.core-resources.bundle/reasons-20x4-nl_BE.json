@@ -1,0 +1,149 @@
+{
+    "info": {
+        "columns": 20, 
+        "locale": "nl_BE", 
+        "rows": 2
+    }, 
+    "localization": {
+        "ABORTED": [
+            "", 
+            "Payment aborted"
+        ], 
+        "ABORTED_MERCHANT_ABORTED": [
+            "", 
+            "Betaling afgebroken"
+        ], 
+        "ABORTED_SHOPPER_ABORTED": [
+            "", 
+            "Betaling afgebroken"
+        ], 
+        "ABORTED_SHOPPER_REMOVED_CARD": [
+            "", 
+            "Betaling afgebroken"
+        ], 
+        "ABORTED_PRESENT_CARD_TIMED_OUT": [
+            "", 
+            "Payment aborted"
+        ], 
+        "APPROVED": [
+            "", 
+            "Betaling geslaagd"
+        ], 
+        "DECLINED": [
+            "", 
+            "Declined"
+        ], 
+        "DECLINED_CARD_EXPIRED": [
+            "", 
+            "Kaart vervallen"
+        ], 
+        "DECLINED_CARD_INVALID_PAN": [
+            "", 
+            "Ongeldige kaart"
+        ], 
+        "DECLINED_CARD_INVALID_SCHEME": [
+            "Kaart", 
+            "niet toegestaan"
+        ], 
+        "DECLINED_CARD_OR_TERMINAL_DECLINED": [
+            "", 
+            "Geweigerd"
+        ], 
+        "DECLINED_CARD_STOLEN": [
+            "Gestolen kaart, ", 
+            "kaart intrekken"
+        ], 
+        "DECLINED_CARD_USE_ORIGINAL": [
+            "Originele kaart", 
+            "gebruiken"
+        ], 
+        "DECLINED_INVALID_TERMINAL": [
+            "Betaling", 
+            "onmogelijk"
+        ], 
+        "DECLINED_INVALID_TERMINAL_CONFIG": [
+            "Betaling", 
+            "onmogelijk"
+        ], 
+        "DECLINED_INVALID_TERMINAL_SOFTWARE": [
+            "Betaling", 
+            "onmogelijk"
+        ], 
+        "DECLINED_PIN_WRONG": [
+            "", 
+            "Verkeerde PIN"
+        ], 
+        "DECLINED_PIN_WRONG_TOO_OFTEN": [
+            "Te vaak verkeerde", 
+            "PIN ingevoerd"
+        ], 
+        "DECLINED_PROCESSOR": [
+            "", 
+            "Betaling geweigerd"
+        ], 
+        "DECLINED_PROCESSOR_EXCEEDS_WITHDRAWAL_COUNT_LIMIT": [
+            "", 
+            "Declined"
+        ], 
+        "DECLINED_SESSION_EXPIRED": [
+            "Betaling", 
+            "onmogelijk"
+        ], 
+        "ERROR": [
+            "Processing error", 
+            ""
+        ], 
+        "ERROR_APPROVED_OFFLINE": [
+            "Processing error", 
+            "(Terminal Approval)"
+        ], 
+        "ERROR_PROCESSOR_INVALID_FORMAT": [
+            "", 
+            "Fout"
+        ], 
+        "ERROR_PROCESSOR_INVALID_NONCE": [
+            "", 
+            "Fout"
+        ], 
+        "ERROR_PROCESSOR_INVALID_SESSION": [
+            "", 
+            "Fout"
+        ], 
+        "ERROR_PROCESSOR_INVALID_STATUS": [
+            "", 
+            "Fout"
+        ], 
+        "ERROR_PROCESSOR_MISSING_SESSION": [
+            "", 
+            "Fout"
+        ], 
+        "ERROR_SESSION_TIMEOUT": [
+            "", 
+            "Fout"
+        ], 
+        "ERROR_TERMINAL_ERROR": [
+            "", 
+            "Fout"
+        ], 
+        "ERROR_SERVER_INVALID_RESPONSE": [
+            "", 
+            "Fout"
+        ], 
+        "ERROR_TERMINAL_TIMEOUT": [
+            "", 
+            "Fout"
+        ], 
+        "NONE": [
+            "", 
+            ""
+        ], 
+        "PENDING": [
+            "", 
+            "Please wait..."
+        ], 
+        "PENDING_WAITING_FOR_FINALIZATION": [
+            "", 
+            "Betaling geslaagd"
+        ]
+    }
+}

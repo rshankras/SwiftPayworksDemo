@@ -1,0 +1,149 @@
+{
+    "info": {
+        "columns": 20, 
+        "locale": "pt_PT", 
+        "rows": 2
+    }, 
+    "localization": {
+        "ABORTED": [
+            "", 
+            "Payment aborted"
+        ], 
+        "ABORTED_MERCHANT_ABORTED": [
+            "", 
+            "Pagamento abortado"
+        ], 
+        "ABORTED_SHOPPER_ABORTED": [
+            "", 
+            "Pagamento abortado"
+        ], 
+        "ABORTED_SHOPPER_REMOVED_CARD": [
+            "", 
+            "Pagamento abortado"
+        ], 
+        "ABORTED_PRESENT_CARD_TIMED_OUT": [
+            "", 
+            "Payment aborted"
+        ], 
+        "APPROVED": [
+            "", 
+            "Pagamento aprovado"
+        ], 
+        "DECLINED": [
+            "", 
+            "Declined"
+        ], 
+        "DECLINED_CARD_EXPIRED": [
+            "", 
+            "Cartão expirado"
+        ], 
+        "DECLINED_CARD_INVALID_PAN": [
+            "", 
+            "Cartão inválido"
+        ], 
+        "DECLINED_CARD_INVALID_SCHEME": [
+            "Cartão", 
+            "não autorizado"
+        ], 
+        "DECLINED_CARD_OR_TERMINAL_DECLINED": [
+            "", 
+            "Recusado"
+        ], 
+        "DECLINED_CARD_STOLEN": [
+            "Cartão roubado,", 
+            "tirar de circulação"
+        ], 
+        "DECLINED_CARD_USE_ORIGINAL": [
+            "", 
+            "Use cartão original"
+        ], 
+        "DECLINED_INVALID_TERMINAL": [
+            "", 
+            "Pagamento impossível"
+        ], 
+        "DECLINED_INVALID_TERMINAL_CONFIG": [
+            "Pagamento", 
+            "não possível"
+        ], 
+        "DECLINED_INVALID_TERMINAL_SOFTWARE": [
+            "Pagamento", 
+            "não possível"
+        ], 
+        "DECLINED_PIN_WRONG": [
+            "", 
+            "PIN incorreto"
+        ], 
+        "DECLINED_PIN_WRONG_TOO_OFTEN": [
+            "PIN errado inserido", 
+            "com muita frequência"
+        ], 
+        "DECLINED_PROCESSOR": [
+            "", 
+            "Pagamento recusado"
+        ], 
+        "DECLINED_PROCESSOR_EXCEEDS_WITHDRAWAL_COUNT_LIMIT": [
+            "", 
+            "Declined"
+        ], 
+        "DECLINED_SESSION_EXPIRED": [
+            "Pagamento", 
+            "não possível"
+        ], 
+        "ERROR": [
+            "Processing error", 
+            ""
+        ], 
+        "ERROR_APPROVED_OFFLINE": [
+            "Processing error", 
+            "(Terminal Approval)"
+        ], 
+        "ERROR_PROCESSOR_INVALID_FORMAT": [
+            "", 
+            "Erro"
+        ], 
+        "ERROR_PROCESSOR_INVALID_NONCE": [
+            "", 
+            "Erro"
+        ], 
+        "ERROR_PROCESSOR_INVALID_SESSION": [
+            "", 
+            "Erro"
+        ], 
+        "ERROR_PROCESSOR_INVALID_STATUS": [
+            "", 
+            "Erro"
+        ], 
+        "ERROR_PROCESSOR_MISSING_SESSION": [
+            "", 
+            "Erro"
+        ], 
+        "ERROR_SESSION_TIMEOUT": [
+            "", 
+            "Erro"
+        ], 
+        "ERROR_TERMINAL_ERROR": [
+            "", 
+            "Erro"
+        ], 
+        "ERROR_SERVER_INVALID_RESPONSE": [
+            "", 
+            "Erro"
+        ], 
+        "ERROR_TERMINAL_TIMEOUT": [
+            "", 
+            "Erro"
+        ], 
+        "NONE": [
+            "", 
+            ""
+        ], 
+        "PENDING": [
+            "", 
+            "Please wait..."
+        ], 
+        "PENDING_WAITING_FOR_FINALIZATION": [
+            "", 
+            "Pagamento aprovado"
+        ]
+    }
+}

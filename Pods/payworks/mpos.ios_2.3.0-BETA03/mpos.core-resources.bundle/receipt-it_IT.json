@@ -1,0 +1,60 @@
+{
+    "info": {
+        "locale": "it_IT"
+    }, 
+    "labels": {
+        "Date": "Data", 
+        "Time": "Ora", 
+        "Status": "Stato", 
+        "AmountAndCurrency": "Importo", 
+        "StatusText": "Informazione", 
+        "Subject": "Descrizione", 
+        "TransactionType": "Tipo", 
+        "ReceiptType": "Giustificativo", 
+        "Identifier": "PWID", 
+        "PaymentDetailsSource": "Modalità di immissione", 
+        "PaymentDetailsEMVApplicationID": "AID", 
+        "PaymentDetailsSchemeOrLabel": "Carta", 
+        "PaymentDetailsMaskedAccount": "Conto", 
+        "PaymentDetailsCustomerVerification": "Verification", 
+        "PaymentDetailsAccountSequenceNumber": "Card Number", 
+        "ClearingDetailsTransactionIdentifier": "Transazione", 
+        "ClearingDetailsOriginalTransactionIdentifier": "TA originale", 
+        "ClearingDetailsAuthorizationCode": "Autorizzazione", 
+        "ClearingDetailsMerchantId": "N. di contratto", 
+        "ClearingDetailsTerminalId": "ID terminale"
+    }, 
+    "values": {
+        "ReceiptType": {
+            "MERCHANT": "Giustificativo esercente", 
+            "CUSTOMER": "Giustificativo cliente"
+        }, 
+        "StatusText": {
+            "APPROVED": "Conservare il giustificativo!", 
+            "DECLINED": "Autorizzazione rifiutata.", 
+            "ABORTED": "Transazione interrotta.", 
+            "ERROR": "Transazione non valida."
+        }, 
+        "PaymentDetailsSource": {
+            "ICC": "Chip", 
+            "MAGSTRIPE": "Banda magnetica", 
+            "CONTACTLESS": "Contactless", 
+            "MAGSTRIPE_AS_FALLBACK": "Banda magnetica", 
+            "MANUAL": "Manuale", 
+            "MANUAL_AS_FALLBACK": "Manuale", 
+            "NFC_ICC": "Contactless", 
+            "NFC_MAGSTRIPE": "Contactless"
+        }, 
+        "TransactionType": {
+            "CHARGE": "Pagamento", 
+            "REFUND": "Storno"
+        }, 
+        "PaymentDetailsCustomerVerification": {
+            "NONE": "None", 
+            "PIN": "PIN", 
+            "SIGNATURE": "Signature", 
+            "PIN_AND_SIGNATURE": "PIN and Signature", 
+            "SHOPPER_DEVICE": "Customer Device"
+        }
+    }
+}
