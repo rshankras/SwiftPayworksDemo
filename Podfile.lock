@@ -36,7 +36,7 @@ DEPENDENCIES:
   - payworks
 
 SPEC CHECKSUMS:
-  CocoaLumberjack: 205769c032b5fef85b92472046bcc8b7e7c8a817
+  CocoaLumberjack: 628fca2e88ef06f7cf6817309aa405f325d9a6fa
   MPBSignatureViewController: c10ee62324e21a1a6859a12f0ff09a9e3c216dd1
   payworks: 0e11ff3ac427e208bfa8ce6f2a73eae5e08f1257
 

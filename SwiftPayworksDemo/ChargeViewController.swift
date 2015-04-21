@@ -44,8 +44,8 @@ class ChargeViewController: UIViewController {
     }
     
     func formatMessage(information:AnyObject) -> String {
-        let temp = (information[0] as NSString) + "\n"
-        return temp + (information[1] as NSString)
+        let temp = ((information[0] as! NSString) as String) + "\n"
+        return temp + ((information[1] as! NSString) as String)
     }
 
     override func didReceiveMemoryWarning() {

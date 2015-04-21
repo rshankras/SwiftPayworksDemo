@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		48840F1A1AE6945F00393F11 /* CocoaLumberjack in Resources */ = {isa = PBXBuildFile; fileRef = 48840F191AE6945F00393F11 /* CocoaLumberjack */; };
+		48840F1C1AE6947F00393F11 /* Pods in Resources */ = {isa = PBXBuildFile; fileRef = 48840F1B1AE6947F00393F11 /* Pods */; };
 		48B6062F1AC3A9ED00A2F817 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48B6062E1AC3A9ED00A2F817 /* AppDelegate.swift */; };
 		48B606311AC3A9ED00A2F817 /* ChargeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48B606301AC3A9ED00A2F817 /* ChargeViewController.swift */; };
 		48B606341AC3A9ED00A2F817 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 48B606321AC3A9ED00A2F817 /* Main.storyboard */; };
@@ -29,6 +31,8 @@
 /* Begin PBXFileReference section */
 		09F0E6793445BD9613431547 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		4804AB091AC3C76B00DBFEAF /* SwiftPayworksDemo-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SwiftPayworksDemo-Bridging-Header.h"; sourceTree = "<group>"; };
+		48840F191AE6945F00393F11 /* CocoaLumberjack */ = {isa = PBXFileReference; lastKnownFileType = folder; name = CocoaLumberjack; path = Pods/CocoaLumberjack; sourceTree = "<group>"; };
+		48840F1B1AE6947F00393F11 /* Pods */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Pods; sourceTree = "<group>"; };
 		48B606291AC3A9ED00A2F817 /* SwiftPayworksDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftPayworksDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		48B6062D1AC3A9ED00A2F817 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		48B6062E1AC3A9ED00A2F817 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -65,6 +69,8 @@
 		22709C5A5805C847230E2288 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
+				48840F1B1AE6947F00393F11 /* Pods */,
+				48840F191AE6945F00393F11 /* CocoaLumberjack */,
 				6FFA5DECC19D71767F088560 /* Pods.debug.xcconfig */,
 				8F24F1FAAEDCA4B3943D3477 /* Pods.release.xcconfig */,
 			);
@@ -220,8 +226,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				48840F1A1AE6945F00393F11 /* CocoaLumberjack in Resources */,
 				48B606341AC3A9ED00A2F817 /* Main.storyboard in Resources */,
 				48B606391AC3A9ED00A2F817 /* LaunchScreen.xib in Resources */,
+				48840F1C1AE6947F00393F11 /* Pods in Resources */,
 				48B606361AC3A9ED00A2F817 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
